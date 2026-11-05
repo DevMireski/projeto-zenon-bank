@@ -385,22 +385,6 @@ Valor total transacionado: 1144392944759.77
 | Total de fraudes           | 8.213                 |
 | Valor total transacionado  | 1.144.392.944.759,77  |
 
-<!-- Benchmarks: preencher quando as tarefas 06 e 10 estiverem concluidas
-Benchmarks medidos por mim (preencher):
-
-| Cenário                                    | Tempo |
-|
--->
-
---------------------------------------------|-------|
-| Busca pior caso, `List` (100 mil)         |       |
-| Busca pior caso, `Map` (100 mil)          |       |
-| Inserção JDBC um a um (10 mil)             |       |
-| Inserção JDBC em batch (10 mil)            |       |
-| Ingestão completa, sequencial             |       |
-| Ingestão completa, `ExecutorService` (N threads) |  |
-| Ingestão completa, Virtual Threads        |       |
-
 ---
 
 ## 🙏 Créditos
